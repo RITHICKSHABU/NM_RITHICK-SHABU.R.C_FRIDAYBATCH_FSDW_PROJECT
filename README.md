@@ -1,1 +1,13 @@
-# NM_RITHICK-SHABU.R.C_FRIDAYBATCH_FSDW_PROJECT
+Project implemented by:
+
+Name: Rithick Shabu
+
+ID:au963521104047
+
+College name: Stella Marys College of engineering
+
+Login credentials:
+
+username: root
+
+Password: root
